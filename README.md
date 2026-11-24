@@ -6,6 +6,8 @@ Projeto
 
 Equipe:
     João Pedro Sousa Zaghlul --> 12221EBI018
+    Julia Barbosa Okuzono --> 12121EAU015
+    
 
 Funcionalidades Previstas:
 
