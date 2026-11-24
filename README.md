@@ -1,13 +1,14 @@
-Projeto
-    Estação de Monitoramento Ambiental Inteligente:
+Projeto:
+    Estação de Monitoramento Ambiental Inteligente
 
         Este projeto consiste no desenvolvimento de uma estação de monitoramento ambiental inteligente, capz dee realizar leitura de variaveis ambientais e fornecer alertas visuais e sonoros conforme as condições identificadas.
         O sistema tem com objetivo monitorar temperatura,  umidade relativa do ar e pressão atimosferica, além de calcular o indice de calor para identificar situações de maior desconforto termico.
 
 Equipe:
+
     João Pedro Sousa Zaghlul --> 12221EBI018
     Julia Barbosa Okuzono --> 12121EAU015
-    
+
 
 Funcionalidades Previstas:
 
