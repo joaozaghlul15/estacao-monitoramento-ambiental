@@ -1,0 +1,15 @@
+# Arquivos de compilacao
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# Arquivos temporarios
+*~
+*.tmp
+.DS_Store
+
+# Arquivos de depuracao
+*.log
